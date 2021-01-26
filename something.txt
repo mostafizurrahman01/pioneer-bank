@@ -1,0 +1,13 @@
+** Remove Repetation-1:
+const depositAmount = document.getElementById(id).value;
+const depositNumber = parseFloat(depositAmount);
+return depositNumber;
+
+
+** Remove Repetation-2:
+// const currentDeposit = document.getElementById
+("currentDeposit").innerText;
+// const currentDepositNumber = parseFloat(currentDeposit);
+// const totalDeposit = depositNumber + currentDepositNumber;
+// document.getElementById("currentDeposit").innerText
+ = totalDeposit;
